@@ -1,0 +1,109 @@
+{
+    "photos": [
+        {
+            "id": 1,
+            "title": "مقبره کوروش",
+            "url": "https://fastly.4sqi.net/img/general/width960/30300714_DIfsk4LFzU_UF6w0xScFQXS43rPLMmkMISl8D0uZ3l8.jpg"
+        },
+        {
+            "id": 2,
+            "title": "آبنماهای باغ شاهی",
+            "url": "https://www.snapptrip.com/blog/wp-content/uploads/2019/05/%D8%A8%D8%A7%D8%BA-%D8%B4%D8%A7%D9%87%DB%8C-%D9%BE%D8%A7%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AF.jpg"
+        },
+        {
+            "id": 3,
+            "title": "مقبره کوروش",
+            "url": "https://www.snapptrip.com/blog/wp-content/uploads/2019/05/%D9%BE%D8%A7%D8%B3%D8%A7%D8%B1%DA%AF%D8%A7%D8%AF-%D9%81%D8%A7%D8%B1%D8%B3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "کاخ بار عام",
+            "url": "https://www.snapptrip.com/blog/wp-content/uploads/2019/05/%DA%A9%D8%A7%D8%AE-%D8%A8%D8%A7%D8%B1%D8%B9%D8%A7%D9%85.jpg"
+        },
+        {
+            "id": 5,
+            "title": "کاخ نشیمن",
+            "url": "https://www.snapptrip.com/blog/wp-content/uploads/2019/05/%DA%A9%D8%A7%D8%AE-%D9%86%D8%B4%DB%8C%D9%85%D9%86.jpg"
+        },
+        {
+            "id": 6,
+            "title": "کاخ دروازه",
+            "url": "https://www.snapptrip.com/blog/wp-content/uploads/2019/05/%DA%A9%D8%A7%D8%AE-%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%85-1.jpg"
+        }
+    ],
+    "comments":[
+        {
+            "id" : 1,
+            "photoID" : 1,
+            "name" : "مهدی حسینی",
+            "txt" : "بنازم کورش کبیر"
+        },
+        {
+            "id" : 2,
+            "photoID" : 1,
+            "name" :"رضا محمدی",
+            "txt" : "عالیه داداش"
+        },
+        {
+            "id" : 3,
+            "photoID" : 2,
+            "name" : "نسیم",
+            "txt" : "وایییییی اینجا خیلی قشنک بود"
+        },
+        
+        {
+            "id" : 4,
+            "photoID" : 2,
+            "name" : "مرتضی",
+            "txt" : "سلام شما تور هم دارین؟"
+        },
+        {
+            "id" : 5,
+            "photoID" : 4,
+            "name" : "قاسم",
+            "txt" : "من اینجا رفتم اینشالله قسمت شه بازم برم"
+        },
+        {
+            "id" : 6,
+            "photoID" : 4,
+            "name" : "سارا",
+            "txt" : "سلام ممنون بابت سایت خوبتون"
+        },
+        {
+            "id" : 7,
+            "photoID" : 3,
+            "name" : "سالار رسولی",
+            "txt" : "پیشنهاد میکنم حتما راجب کوروش بخونین"
+        },
+        {
+            "id" : 8,
+            "photoID" : 3,
+            "name" : "حامد",
+            "txt" : "افسوس ازینکه روی این آثار یادگاری مینویسن"
+        },
+        {
+            "id" : 9,
+            "photoID" : 5,
+            "name" : "علی فکور",
+            "txt" : "آخ کاش منم تو اون زمان زندگی میکردم"
+        },
+        {
+            "id" : 10,
+            "photoID" : 5,
+            "name" : "امیررضا سعادتی",
+            "txt" : "اینجا کجاست؟"
+        },
+        {
+            "id" : 11,
+            "photoID" : 6,
+            "name" : "ساسان راستگو",
+            "txt" : "سلام ادمین دمت گرم سایتت باحاله"
+        },
+        {
+            "id" : 12,
+            "photoID" : 6,
+            "name" : "پیمان طالبی",
+            "txt" : "اینجا قشنگ نیست ترکیه رو ترجیح میدم"
+        }
+       ]
+}
