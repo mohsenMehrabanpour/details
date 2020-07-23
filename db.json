@@ -105,5 +105,43 @@
             "name" : "پیمان طالبی",
             "txt" : "اینجا قشنگ نیست ترکیه رو ترجیح میدم"
         }
-       ]
+       ],
+    "rates":[
+        {
+            "id":1,
+            "photoID" : 1,
+            "number" : 120,
+            "average" : 3.25
+        },
+        {
+            "id":2,
+            "photoID" : 2,
+            "number" : 100,
+            "average" : 4
+        },
+        {
+            "id":3,
+            "photoID" : 3,
+            "number" : 120,
+            "average" : 1.25
+        },
+        {
+            "id":4,
+            "photoID" : 4,
+            "number" : 85,
+            "average" : 2.2
+        },
+        {
+            "id":5,
+            "photoID" : 5,
+            "number" : 68,
+            "average" : 3.5
+        },
+        {
+            "id":6,
+            "photoID" : 6,
+            "number" : 99,
+            "average" : 3.7
+        }
+    ]
 }
